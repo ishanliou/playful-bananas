@@ -42,7 +42,7 @@ function Banana({ z }) {
     </>
   );
 }
-
+useGLTF.preload("/banana-transformed.glb");
 export default function App({ count = 100, depth = 80 }) {
   return (
     <Canvas
