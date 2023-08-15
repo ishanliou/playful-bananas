@@ -1,4 +1,4 @@
-# Playful-Bananas Three.js [🍌 -->](https://main--helpful-speculoos-f58ba9.netlify.app/)
+# Playful-Bananas Three.js [🍌 -->](https://playful-bananas.netlify.app/)
 
 ## Reference
 - [Threejs docs](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
